@@ -1,0 +1,12 @@
+``` Voici le Reponce au question poser dans la 5eme partie du TME2
+
+Nouc avons que la commande nice permet de changer la priorite 
+Donc apres avoir saisie la commande 'ps -l' dans le programme my_times 
+On a ainsi : 
+	Sa priorite est 80, dans la colonne "PRI" 
+	
+Apres execution de la commande "nice -19 ps -l", nous aurons :
+	La priorite a augmenter de 19, qui d'apres le cours, cela veut dire que le processus ps n'est plus prioritaire, tel que ceux qui sont de prirorite inferieur peuvent passer avant ps etant beaucoup plus prioritaire
+	
+	
+
